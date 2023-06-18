@@ -1,4 +1,4 @@
-# TWAIN Direct Android Sample
+# TWAIN Direct iOS Sample
 
 A simple universal iOS app that scans images using the TWAIN Direct protocol. Intended as a developer sample, the app is light on usability but demonstrates the key aspects of acquiring images using TWAIN Direct:
 
